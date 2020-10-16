@@ -4,3 +4,5 @@ Firs File for cloning
 
 2nd Commit from GitHub Online
 change in SmartGit
+
+changing from Online to SmartGit
